@@ -4,8 +4,7 @@ In this project, I edited, or refactored, the solution code to loop through all 
 ## Results
 ** Original Code:**
 
-'''
-Sub AllStocksAnalysisRefactored()
+'''Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
 
@@ -248,7 +247,7 @@ Sub AllStocksAnalysisRefactored()
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
-End Sub '''
+End Sub'''
 
 ![VBA_Challenge_2017]( https://github.com/CorinneBean/Stock-Analysis/blob/b3c2dc3356d3de2b475b41ce38bf7b7f6b4ed0e3/Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018]( https://github.com/CorinneBean/Stock-Analysis/blob/b3c2dc3356d3de2b475b41ce38bf7b7f6b4ed0e3/Resources/VBA_Challenge_2018.png)
