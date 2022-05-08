@@ -8,14 +8,14 @@ In this project, I edited, or refactored, the solution code to loop through all 
 
 **Refactored Code:**
 
-'''vb
+```vb
 
 Sub AllStocksAnalysis()
    'Format the output sheet on All Stocks Analysis worksheet
         Worksheets("All Stocks Analysis").Activate
         Range("A1").Value = "All Stocks (2018)"
 
-'''
+```
 
 ![Refactored Code](https://github.com/CorinneBean/Stock-Analysis/blob/86f91529a3003c8e08671fb448c052881fc6f7e5/Refactored_Code)
 
