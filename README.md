@@ -8,9 +8,9 @@ In this project, I edited, or refactored, the solution code to loop through all 
 
 **Refactored Code:**
 
-'''VBS
+'''vbs
 
-ub AllStocksAnalysis()
+Sub AllStocksAnalysis()
    'Format the output sheet on All Stocks Analysis worksheet
         Worksheets("All Stocks Analysis").Activate
         Range("A1").Value = "All Stocks (2018)"
