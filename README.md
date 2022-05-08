@@ -232,4 +232,4 @@ Refactoring code is used to restructure the existing body of code by altering it
 		- It is expensive and risky in the view of management. *https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/*
 	
 - **How do these pros and cons apply to refactoring the original VBA script**
-	- Refactoring the original VBA script made it more efficient. Since it was a small code sample the refactoring took minimal time. In the end the advantages out weighed the disadvantages since it was a fairly quick and easy project.
+Refactoring the original VBA script made it more efficient. Since it was a small code sample the refactoring took minimal time. In the end the advantages out weighed the disadvantages since it was a fairly quick and easy project.
