@@ -8,7 +8,7 @@ In this project, I edited, or refactored, the solution code to loop through all 
 
 **Refactored Code:**
 
-'''vbs
+'''vb
 
 Sub AllStocksAnalysis()
    'Format the output sheet on All Stocks Analysis worksheet
