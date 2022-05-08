@@ -3,13 +3,12 @@
 In this project, I edited, or refactored, the solution code to loop through all the data one time in order to collect stock data to examine the entire stock market for 2017 and 2018. Then, I determined whether refactoring my code successfully made the VBA script run faster. 
 ## Results
 ** Original Code:**
+
 ![Original Code](https://github.com/CorinneBean/Stock-Analysis/blob/a30fb349630b9013b2590b036dea84a2ed29447b/Resources/Original%20Code.pdf)
-
-
 
 **Refactored Code:**
 
-![Refactored Code](https://github.com/CorinneBean/Stock-Analysis/blob/a30fb349630b9013b2590b036dea84a2ed29447b/Resources/Refactored%20Code.pdf)
+![Refactored Code](https://github.com/CorinneBean/Stock-Analysis/blob/86f91529a3003c8e08671fb448c052881fc6f7e5/Refactored_Code)
 
 **Time on VBA_Challenge_2017**
 
