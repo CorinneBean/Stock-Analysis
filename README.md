@@ -2,7 +2,8 @@
 ## Overview of Project
 In this project, I edited, or refactored, the solution code to loop through all the data one time in order to collect stock data to examine the entire stock market for 2017 and 2018. Then, I determined whether refactoring my code successfully made the VBA script run faster. 
 ## Results
-** Original Code:**
+
+**Original Code:**
 
 ```vb
 
